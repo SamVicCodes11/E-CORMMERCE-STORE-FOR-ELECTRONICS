@@ -21,7 +21,7 @@ This is a modern, fully responsive e-commerce platform offering a seamless shopp
 
 
 ## 🚀 Live Demo  
-🔗 [Visit the Website](https://e-cormmerce-shopping-platform.vercel.app/)
+🔗 [Visit the Website](https://e-cormmerce-store-for-electronics.vercel.app/)
 
 
 
