@@ -45,11 +45,9 @@ const Footer = () => {
               alias cum
             </p>
             <p className="text-gray-500 mt-4">
-              Made with 💖 by The Coding Journey
+              Made with 💖 by SamVic Codes
             </p>
             <a
-              href="https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ"
-              target="_blank"
               className="inline-block bg-primary/90 text-white py-2 px-4 mt-4 text-sm rounded-full"
             >
               Visit our YouTube Channel
@@ -100,11 +98,11 @@ const Footer = () => {
               <div>
                 <div className="flex items-center gap-3">
                   <FaLocationArrow />
-                  <p>Noida , Uttar Pradesh</p>
+                  <p>SamVic Electronics</p>
                 </div>
                 <div className="flex items-center gap-3 mt-6">
                   <FaMobileAlt />
-                  <p>+91 1234567890</p>
+                  <p>+2348146557494</p>
                 </div>
 
                 {/* social links */}
